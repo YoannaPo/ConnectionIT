@@ -11,6 +11,9 @@ Through observation and accessibility evaluations, I identified key areas for im
 
 - Create a **Hi-Fidelity** redesign that prioritizes usability and readability.
 
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/dVZ2uucBICk7PHKdtLIdkv/ConnectionIT-Project-%26-Accesibility-Portfolio?node-id=102-9&p=f&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=102%3A9&embed-host=share" allowfullscreen></iframe>
+
+
 ## Spotted Accessibility Issues
 After observing Rose, a user navigating the ConnectionIT website, I identified several accessibility concerns:
 
