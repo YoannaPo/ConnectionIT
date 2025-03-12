@@ -13,7 +13,7 @@ Through observation and accessibility evaluations, I identified key areas for im
 
 </br>**Click below to view the presentation or read the brief info underneath.**
 </br>
-        [![desktop view of the page](src="https://github.com/YoannaPo/ConnectionIT/blob/main/assets/ConnectionIT.png")](https://www.figma.com/proto/dVZ2uucBICk7PHKdtLIdkv/ConnectionIT-Project-%26-Accesibility-Portfolio?node-id=102-9&p=f&t=WcSYJi0e02wf8R81-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=102%3A9)
+        [![desktop view of the page](<img src="https://github.com/YoannaPo/ConnectionIT/blob/main/assets/ConnectionIT.png">)](https://www.figma.com/proto/dVZ2uucBICk7PHKdtLIdkv/ConnectionIT-Project-%26-Accesibility-Portfolio?node-id=102-9&p=f&t=WcSYJi0e02wf8R81-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=102%3A9)
 
 
 ## Spotted Accessibility Issues
