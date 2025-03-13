@@ -13,7 +13,7 @@ Through observation and accessibility evaluations, I identified key areas for im
 
 </br>**Click below to view the presentation or read the brief info underneath.**
 </br>
-[<img src="https://github.com/YoannaPo/ConnectionIT/blob/main/assets/ConnectionIT.png" alt ="desktop view of the page">](https://www.figma.com/proto/dVZ2uucBICk7PHKdtLIdkv/ConnectionIT-Project-%26-Accesibility-Portfolio?node-id=102-9&p=f&t=WcSYJi0e02wf8R81-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=102%3A9)
+[<img src="https://github.com/YoannaPo/ConnectionIT/blob/main/assets/ConnectionIT-slide.png" alt ="desktop view of the page" width="70%">](https://www.figma.com/proto/dVZ2uucBICk7PHKdtLIdkv/ConnectionIT-Project-%26-Accesibility-Portfolio?node-id=102-9&p=f&t=WcSYJi0e02wf8R81-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=102%3A9)
 
 
 ## Spotted Accessibility Issues
@@ -61,6 +61,6 @@ Throughout this design sprint, I gained valuable insights into web accessibility
   
 ## Live Preview & Figma Link
 
-- 🎨 **Figma Presentation:** [View the Figma File](#) _(Figma link )_
+- 🎨 **Figma Presentation:** [View the Figma File](https://www.figma.com/proto/dVZ2uucBICk7PHKdtLIdkv/ConnectionIT-Project-%26-Accesibility-Portfolio?node-id=102-9&p=f&t=WcSYJi0e02wf8R81-1&scaling=contain&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=102%3A9)
 
-- 🖥 **Desktop View:** [View Desktop Prototype](#) _(Preview link )_
+- 🖥 **Desktop View:** [View Desktop Prototype](https://www.figma.com/design/dVZ2uucBICk7PHKdtLIdkv/ConnectionIT-Project-%26-Accesibility-Portfolio?node-id=0-1&m=dev&t=xJ9gJAv9aztVocHP-1)
